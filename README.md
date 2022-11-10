@@ -6,6 +6,7 @@ Steps
 2-Find out if my s20 is new or not (if the camera have been altered).
 
   1/ The pictures I took with my phone and which fited with the program (with a checkboard pattern)
+  
   The "s20-"* taken with the Galaxy s20 we want to test
   The "j"* taken with a Galaxy J6+
   The "red"* taken with a Redmi note 9S
