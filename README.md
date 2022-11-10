@@ -8,7 +8,9 @@ Steps
   1/ The pictures I took with my phone and which fited with the program (with a checkboard pattern)
   
   The "s20-"* taken with the Galaxy s20 we want to test
+  
   The "j"* taken with a Galaxy J6+
+  
   The "red"* taken with a Redmi note 9S
   
 Here are the focal lengths from the J6 and the Redmi according to the website https://www.camerafv5.com/ :
